@@ -1,4 +1,4 @@
-![Screenshot 2024-01-04 at 13 41 44](https://github.com/cristiansotorivera/cristiansotorivera/assets/31814319/0de4ed02-f9b8-46b5-9fcd-d60073a2c89d)
+
 
 <h1 align=![Uploading Chile-Santiago-mountains-aerial.jpg…]()
 "center">Hi, I'm Cristian Soto</h1>
