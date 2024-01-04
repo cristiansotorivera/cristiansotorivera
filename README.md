@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Cristian Soto</h1>
+![Chile-Santiago-mountains-aerial](https://github.com/cristiansotorivera/cristiansotorivera/assets/31814319/417f3db5-480d-4a87-a175-a5a12fda3d51)
+
+<h1 align=![Uploading Chile-Santiago-mountains-aerial.jpg…]()
+"center">Hi, I'm Cristian Soto</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 </p>
