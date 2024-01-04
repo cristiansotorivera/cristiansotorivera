@@ -26,10 +26,3 @@ Frontend Developer
 
 <a href="http://www.github.com/cristiansotorivera"><img src="https://github-readme-stats.vercel.app/api?username=cristiansotorivera&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="cristiansotorivera's GitHub stats" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cristiansotorivera"><img src="https://github-readme-stats.vercel.app/api?username=cristiansotorivera&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cristiansotorivera's GitHub stats" /></a>
-
-<a href="https://github.com/cristiansotorivera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiansotorivera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
