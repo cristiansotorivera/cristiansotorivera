@@ -4,9 +4,9 @@ Hi 👋 My name is Cristian Soto
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Santiago
-* ✉️  You can contact me at [cristiansotorivera@gmail.com](mailto:cristiansotorivera@gmail.com)
-* 🧠  I'm learning Angular, VUE, React, Testing tools
+* 🌍  I'm based in Santiago.
+* ✉️  You can contact me at [cristiansotorivera@gmail.com](mailto:cristiansotorivera@gmail.com).
+* 🧠  I'm learning Angular, VUE, React, Testing tools.
 
 ### Skills
 
