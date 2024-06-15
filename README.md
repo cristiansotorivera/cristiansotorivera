@@ -1,7 +1,7 @@
 Hi 👋 My name is Cristian Soto
 ==============================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
 * 🌍  I'm based in Santiago.
