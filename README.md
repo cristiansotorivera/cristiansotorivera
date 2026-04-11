@@ -4,9 +4,7 @@ Hi 👋 My name is Cristian Soto
 QC Engineer
 ------------------
 
-* 🌍  I'm based in Santiago.
 * ✉️  You can contact me at [cristiansotorivera@gmail.com](mailto:cristiansotorivera@gmail.com).
-* 🧠  I'm learning Angular, VUE, React, Testing tools.
 
 ### Skills
 
