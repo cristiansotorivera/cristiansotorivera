@@ -16,9 +16,6 @@ QA Engineer | Test Automation
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
 </a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" />
-</a>
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure DevOps" />
 </a>
@@ -43,16 +40,6 @@ QA Engineer | Test Automation
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-</p>
-
-#### 🧰 Other Tools
-<p align="left">
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="36" height="36" alt="Splunk" />
-</a>
-<a href="https://www.getxray.app/" target="_blank" rel="noreferrer">
-<img src="https://avatars.githubusercontent.com/u/58973159?s=200&v=4" width="36" height="36" alt="Xray" />
 </a>
 </p>
 
