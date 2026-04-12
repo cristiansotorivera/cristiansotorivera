@@ -1,14 +1,17 @@
-Hi 👋 My name is Cristian Soto
-==============================
+# Hi 👋 My name is Cristian Soto
 
-QA Engineer | Test Automation
-----------------------------
+## QA Engineer | Test Automation Engineer
 
-* ✉️ You can contact me at [cristiansotorivera@gmail.com](mailto:cristiansotorivera@gmail.com)
+I build scalable test automation frameworks using **Playwright + JavaScript**, focusing on reliability, maintainability, and CI integration.
+
+* 🔧 Currently working on: Playwright automation framework with POM, fixtures, and CI
+* ⚡ Strong focus on: UI automation, test architecture, and CI/CD pipelines
+* 🌱 Continuously improving in: API testing and advanced automation patterns
+* ✉️ Contact: [cristiansotorivera@gmail.com](mailto:cristiansotorivera@gmail.com)
 
 ### Skills
 
-#### 🧪 QA & Automation
+#### 🧪 Test Automation & QA
 <p align="left">
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" />
@@ -26,6 +29,12 @@ QA Engineer | Test Automation
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="36" height="36" alt="Jira" />
 </a>
 </p>
+
+#### 🧩 Testing Types
+- UI Testing (Playwright)
+- API Testing (Postman)
+- Smoke & Regression Testing
+- Test Design & Test Cases
 
 #### 💻 Programming & Tools
 <p align="left">
